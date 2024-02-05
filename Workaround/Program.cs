@@ -52,6 +52,7 @@ Console.WriteLine("***********************************");
 
 
 
+
 static void SelamVer(string isim = "İsimsiz")
 {
     Console.WriteLine($"Merhaba {isim}");
